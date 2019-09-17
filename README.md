@@ -2,12 +2,12 @@
 
 ### original image
 
-![alt text][/img/blur.png]
+![Original image](/img/blur.png)
 
 ### deblured
 
-![alt text][/img/deblured.png]
+![Image Deblured](/img/deblured.png)
 
 ### perspective correction
 
-![alt text][/img/perspective.png]
+![Perspective correction](/img/perspective.png)
