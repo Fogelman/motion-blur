@@ -2,7 +2,7 @@
 
 ### original image
 
-![alt text][/img/blur.png]
+![alt text][/img/original.png]
 
 ### deblured
 
